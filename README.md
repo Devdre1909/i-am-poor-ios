@@ -1,4 +1,4 @@
 #  iPoor
 
-["iPoor preview"](./preview.png)
+!["iPoor preview"](preview.png)
 
